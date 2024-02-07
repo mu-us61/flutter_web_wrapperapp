@@ -7,7 +7,7 @@ void main() {
     home: Scaffold(
       body: SafeArea(
         child: WebView(
-          initialUrl: "https://vakdeneme.pythonanywhere.com/",
+          initialUrl: "http://yonetim.hayvakfi.org/",
           javascriptMode: JavascriptMode.unrestricted,
         ),
       ),
